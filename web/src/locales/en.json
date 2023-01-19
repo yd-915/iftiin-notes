@@ -49,11 +49,11 @@
     "vacuum": "Vacuum",
     "select": "Select"
   },
-  "slogan": "An open-source, self-hosted memo hub with knowledge management and socialization.",
+  "slogan": "Note taking hub for knowledge management and organization.",
   "auth": {
-    "signup-as-host": "Sign up as Host",
-    "host-tip": "You are registering as the Site Host.",
-    "not-host-tip": "If you don't have an account, please contact the site host."
+    "signup-as-host": "Sign up as Admin",
+    "host-tip": "You are registering as the Site Admin.",
+    "not-host-tip": "If you don't have an account, please contact the site admin."
   },
   "sidebar": {
     "daily-review": "Daily Review",
@@ -62,10 +62,10 @@
     "archived": "Archived"
   },
   "daily-review": {
-    "oops-nothing": "Oops, there is nothing."
+    "oops-nothing": "Nothing to see here."
   },
   "resources": {
-    "description": "View your static resources in memos. e.g. images",
+    "description": "View your static resources in notes. e.g. images",
     "no-resources": "No resources.",
     "fetching-data": "fetching data...",
     "upload": "Upload",
