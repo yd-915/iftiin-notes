@@ -12,8 +12,8 @@ export const initialGlobalState = async () => {
       additionalStyle: "",
       additionalScript: "",
       customizedProfile: {
-        name: "memos",
-        logoUrl: "/logo.png",
+        name: "Iftiin-Notes",
+        logoUrl: "/notes.png",
         description: "",
         locale: "en",
         appearance: "system",
@@ -37,8 +37,8 @@ export const initialGlobalState = async () => {
       defaultGlobalState.systemStatus = {
         ...data,
         customizedProfile: {
-          name: customizedProfile.name || "memos",
-          logoUrl: customizedProfile.logoUrl || "/logo.png",
+          name: customizedProfile.name || "Iftiin-Notes",
+          logoUrl: customizedProfile.logoUrl || "/notes.png",
           description: customizedProfile.description,
           locale: customizedProfile.locale || "en",
           appearance: customizedProfile.appearance || "system",
