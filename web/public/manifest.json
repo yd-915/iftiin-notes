@@ -1,10 +1,10 @@
 {
-  "short_name": "Memos",
-  "name": "Memos",
+  "short_name": "Iftiin-Notes",
+  "name": "Iftiin-Notes",
   "description": "usememos/memos",
   "icons": [
     {
-      "src": "/logo.png",
+      "src": "/notes.png",
       "type": "image/png",
       "sizes": "520x520"
     }
@@ -12,6 +12,6 @@
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "theme_color": "#f4f4f5",
-  "background_color": "#f4f4f5"
+  "theme_color": "#0047FF",
+  "background_color": "#0047FF"
 }
