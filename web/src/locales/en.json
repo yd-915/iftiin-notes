@@ -73,7 +73,7 @@
     "copy-link": "Copy Link",
     "delete-resource": "Delete Resource",
     "warning-text": "Are you sure to delete this resource? THIS ACTION IS IRREVERSIABLE❗",
-    "linked-amount": "Linked memo amount",
+    "linked-amount": "Linked note amount",
     "rename": "Rename",
     "clear-unused-resources": "Clear unused resources",
     "warning-text-unused": "Are you sure to delete these unused resource? THIS ACTION IS IRREVERSIABLE❗",
@@ -81,8 +81,8 @@
     "name": "Name"
   },
   "archived": {
-    "archived-memos": "Archived Memos",
-    "no-archived-memos": "No archived memos.",
+    "archived-memos": "Archived Notes",
+    "no-archived-memos": "No archived notes.",
     "fetching-data": "fetching data..."
   },
   "editor": {
@@ -112,7 +112,7 @@
     "shortcut-title": "shortcut title",
     "create-shortcut": "Create Shortcut",
     "edit-shortcut": "Edit Shortcut",
-    "eligible-memo": "eligible memo",
+    "eligible-memo": "eligible note",
     "fill-previous": "Please fill in previous filter value",
     "title-required": "Title is required",
     "value-required": "Filter value is required"
@@ -159,12 +159,12 @@
     },
     "preference-section": {
       "theme": "Theme",
-      "default-memo-visibility": "Default memo visibility",
-      "enable-folding-memo": "Enable folding memo",
+      "default-memo-visibility": "Default note visibility",
+      "enable-folding-memo": "Enable folding note",
       "enable-powerful-editor": "Enable powerful editor",
       "editor-font-style": "Editor font style",
       "mobile-editor-style": "Mobile editor style",
-      "default-memo-sort-option": "Memo display time",
+      "default-memo-sort-option": "Note display time",
       "created_ts": "Created Time",
       "updated_ts": "Updated Time"
     },
@@ -175,7 +175,7 @@
       "server-name": "Server Name",
       "customize-server": {
         "title": "Customize Server",
-        "default": "Default is memos",
+        "default": "Default is notes",
         "icon-url": "Icon URL"
       },
       "database-file-size": "Database File Size",
@@ -192,21 +192,21 @@
     }
   },
   "amount-text": {
-    "memo_one": "MEMO",
-    "memo_other": "MEMOS",
+    "memo_one": "IFTIIN-NOTES",
+    "memo_other": "IFTIIN-NOTES",
     "tag_one": "TAG",
     "tag_other": "TAGS",
     "day_one": "DAY",
     "day_other": "DAYS"
   },
   "message": {
-    "no-memos": "no memos 🌃",
-    "memos-ready": "all memos are ready 🎉",
+    "no-memos": "No notes found🌃",
+    "memos-ready": "All notes are ready 🎉",
     "restored-successfully": "Restored successfully",
-    "memo-updated-datetime": "Memo created datetime changed.",
+    "memo-updated-datetime": "Note created datetime changed.",
     "invalid-created-datetime": "Invalid created datetime.",
-    "change-memo-created-time": "Change memo created time",
-    "memo-not-found": "Memo not found.",
+    "change-memo-created-time": "Change note created time",
+    "memo-not-found": "Note not found.",
     "fill-all": "Please fill in all fields.",
     "password-not-match": "Passwords do not match.",
     "new-password-not-match": "New passwords do not match.",
@@ -216,7 +216,7 @@
     "signup-failed": "Signup failed",
     "user-not-found": "User not found",
     "password-changed": "Password Changed",
-    "private-only": "This memo is private only.",
+    "private-only": "This note is private only.",
     "copied": "Copied",
     "succeed-copy-content": "Succeed to copy content to clipboard.",
     "succeed-copy-code": "Succeed to copy code to clipboard.",
